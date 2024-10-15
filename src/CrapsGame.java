@@ -32,7 +32,6 @@ public class CrapsGame {
                         System.out.println("You got a " + sum + " and did not make the point. Trying again...");
                     }
                 }
-               // while(!done);
             }
             System.out.print("Would you like to play again? [Y/N] ");
             if (in.hasNextLine()) {
